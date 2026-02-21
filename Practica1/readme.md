@@ -2,7 +2,7 @@ Practica 1 Programacion De Interfaces Web.
 
 #1 Ejecución del proyecto:
 
--> Tras clonar el proyecto será necesario tener instalado npm para manejar e instalar sus dependencias, una vez tengamos npm nos situaremos en la carpeta donde esté nuestro proyecto y en terminal correremos npm install para instalar las dependencias del proyecto del package.json.
+-> Tras clonar el proyecto será necesario tener instalado npm para manejar e instalar sus dependencias, tambien será necesario instalar axios, mediante npm install axios, una vez tengamos npm nos situaremos en la carpeta donde esté nuestro proyecto y en terminal correremos npm install para instalar las dependencias del proyecto del package.json.Es posible que debido a como esta ordenado el repositorio en carpetas haya que modificar los imports del proyecto
 
 -> Una vez instaladas las dependencias para correr el proyecto escribiremos npm run dev en terminal.
 
