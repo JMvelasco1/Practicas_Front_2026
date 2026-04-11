@@ -1,0 +1,26 @@
+.carrito {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  padding:25px;
+  margin:15px;
+  gap:15px;
+}
+
+
+.carrito button {
+  border:1px solid beige;
+  border-radius: 15px;
+  background-color: beige;
+  color:black;
+  font-size:20px;
+  height:50px;
+  box-shadow: 2px 2px black;
+
+}
+
+.carrito img {
+    height:300px;
+    width:250px;
+}
