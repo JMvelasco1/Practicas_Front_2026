@@ -1,0 +1,22 @@
+
+.botonesNav {
+
+    display:flex; 
+    flex-direction: row;
+    width:100%;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.botonesNav button{
+    
+    background: white;
+    padding:5px;
+    width:50px;
+    text-align:center;
+    border:hidden;
+    cursor:pointer;
+    font-size:20px;
+    border-radius: 60px;
+    
+}

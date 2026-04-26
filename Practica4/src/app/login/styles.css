@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+
+
+.loginRegister {
+
+display:flex; 
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding:20px;
+}
+
+.loginRegister button {
+    background-color: rgb(128, 128, 255);
+    border-radius: 12px;
+    padding:5px;
+    width:300px;
+    text-align:center;
+}

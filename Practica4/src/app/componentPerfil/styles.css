@@ -1,0 +1,39 @@
+
+
+
+
+.cardData {
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: white;
+padding:20px;
+gap:5px;
+}
+
+.dataUser {
+display:flex;
+flex-direction: row;
+justify-content: center;
+align-items:center
+}
+
+.dataFollowers {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    padding:10px;
+    gap:10px;
+}
+
+.dataUser button {
+    background-color: rgb(128, 128, 255);
+    border-radius: 12px;
+    padding:5px;
+    margin:5px 5px 5px 5px;
+    width:50px;
+    text-align:center;
+    cursor:pointer;
+}

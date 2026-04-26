@@ -1,0 +1,38 @@
+.cardLogin {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding:12px;
+}
+
+
+.cardLogin form {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    gap:10px;
+
+}
+.cardLogin button {
+
+    background-color: rgb(128, 128, 255);
+    border-radius: 12px;
+    padding:5px;
+    width:300px;
+    text-align:center;
+}
+
+.cardLogin input {
+
+    display:flex;
+    flex-direction: column;
+    border-radius:12px;
+    width: 300px;
+    gap:10px;
+    padding:5px;
+    border:1px solid gray;  
+
+}
